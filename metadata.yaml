@@ -1,5 +1,5 @@
 name: astrbot_plugin_update_log
-desc: 公告
+desc: 简易公告插件，实现bot对白名单推送更新，同时支持对专属群推送
 version: v1.0.0
 author: Noeight
 repo: https://github.com/Noeight8/update_log/tree/main
