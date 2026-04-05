@@ -36,8 +36,7 @@ init_data()
     "update_log",
     "Noeight",
     "更新日志插件（指令组+独立ID+自动群发）",
-    "1.0.0",
-    "tool"
+    "1.0.0"
 )
 class UpdateLog(Star):
     def __init__(self, context: Context, config: AstrBotConfig):
