@@ -1,3 +1,5 @@
+![访客统计](https://count.getloli.com/get/@astrbot_plugin_update_log?theme=miku)
+
 # 更新日志插件 (Update Log)
 
 一个为 AstrBot 设计的更新日志管理插件，支持全局公告和群专属公告的发布、查询、搜索与删除，并可自动推送到指定群聊。
